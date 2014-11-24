@@ -1,0 +1,22 @@
+{
+  "name": "ssrfcom",
+  "version": "0.0.0",
+  "description": "a small library for ocr",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sohel364/ssrfcom.git"
+  },
+  "keywords": [
+    "ssrfcom"
+  ],
+  "author": "Mahmudul Hasan\nnpm set init.author.email ma.hasan@samsung.com",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/sohel364/ssrfcom/issues"
+  },
+  "homepage": "https://github.com/sohel364/ssrfcom"
+}
