@@ -3,8 +3,8 @@ Step by Step Process to write OWN NPM Module
 Configure NPM :
 
 npm set init.author.name "Mahmudul Hasan"
-npm set init.author.email "ma.hasan@samsung.com"
-npm set init.author.url "samsung.net"
+npm set init.author.email "sohel.official@gmail.com"
+npm set init.author.url "NA"
 npm adduser
 Create/Clone git Repository 
 1. Create a git repository
